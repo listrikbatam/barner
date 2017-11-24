@@ -1,0 +1,19 @@
+/* --- topfeat --- */
+body#layout #top-featured .isiwrap{width:100%;float:$startSide;}
+#top-featured .widget > h2 span{background-color:transparent!important;}
+#top-featured .FollowByEmail > h2{font-size:35px;text-transform:uppercase;color:#FDFDFD;}
+.FollowByEmail > h2:after{display:none;}
+#top-featured .widget > h2:before{display:none;}
+.FollowByEmail{padding:15px;top:25px;}
+.FollowByEmail{text-align:center;}
+.FollowByEmail .follow-by-email-inner{padding:16px 8px;}
+.FollowByEmail .follow-by-email-inner .follow-by-email-address{height:45px;border-radius:2px;text-align:center;background-color:transparent;border:1px solid #FFF}
+.FollowByEmail .follow-by-email-inner form,.FollowByEmail .follow-by-email-inner table{margin:0 auto;padding:1px;max-width:600px;color:#FDFDFD}
+.FollowByEmail .follow-by-email-inner .follow-by-email-address{padding:1px 0;text-indent:8px;border:1px solid #FFF;color:#FDFDFD}
+.footer .FollowByEmail .follow-by-email-inner .follow-by-email-address{border:1px solid #FFF;}
+.FollowByEmail .follow-by-email-inner td{display:block;margin-top:20px;}
+.FollowByEmail .follow-by-email-inner td:last-child,.FollowByEmail .follow-by-email-inner .follow-by-email-submit{width:180px;margin:40px auto 0}
+.FollowByEmail .follow-by-email-inner .follow-by-email-submit{margin:0;border-radius:2px;font-size:16px;text-transform:uppercase;height:45px;background-color:transparent;border:1px solid #FFF}
+#top-featured > .FollowByEmail .follow-by-email-inner .follow-by-email-submit:hover{background-color:rgba(0, 0, 0, 0.25);}
+.FollowByEmail .widget-content{padding:20px;color:#FDFDFD;font-size:130%}
+.mCSB_container{width:auto;margin-$endSide:14px;overflow:hidden;}
